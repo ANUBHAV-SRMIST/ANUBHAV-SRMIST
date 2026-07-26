@@ -60,7 +60,6 @@ My experience spans embedded systems, machine learning, and full-stack web devel
 
 ---
 
-### 📊 GitHub Stats
 
 <div align="center">
 
@@ -74,7 +73,6 @@ My experience spans embedded systems, machine learning, and full-stack web devel
 
 <div align="center">
 
-### 📫 Let's Connect
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-6366F1?style=flat-square&logo=vercel&logoColor=white)](https://anubhav-mishra.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anubhav-shrijan/)
