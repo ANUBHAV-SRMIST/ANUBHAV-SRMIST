@@ -58,18 +58,7 @@ My experience spans embedded systems, machine learning, and full-stack web devel
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
----
 
-
-<div align="center">
-
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ANUBHAV-SRMIST&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ANUBHAV-SRMIST&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
-
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ANUBHAV-SRMIST&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</div>
-
----
 
 <div align="center">
 
