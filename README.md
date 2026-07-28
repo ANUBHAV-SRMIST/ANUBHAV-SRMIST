@@ -67,10 +67,18 @@ My experience spans embedded systems, machine learning, and full-stack web devel
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ANUBHAV-SRMIST/ANUBHAV-SRMIST/main/profile/stats.svg" alt="GitHub Stats" width="48%"/>
-<img src="https://raw.githubusercontent.com/ANUBHAV-SRMIST/ANUBHAV-SRMIST/main/profile/top-langs.svg" alt="Top Languages" width="48%"/>
+<table>
+<tr>
+<td align="center" valign="middle">
+<img src="https://raw.githubusercontent.com/ANUBHAV-SRMIST/ANUBHAV-SRMIST/main/profile/stats.svg" alt="GitHub Stats" height="195"/>
+</td>
+<td align="center" valign="middle">
+<img src="https://raw.githubusercontent.com/ANUBHAV-SRMIST/ANUBHAV-SRMIST/main/profile/top-langs.svg" alt="Top Languages" height="195"/>
+</td>
+</tr>
+</table>
 
-<br/><br/>
+<br/>
 
 <img src="https://streak-stats.demolab.com/?user=ANUBHAV-SRMIST&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="70%"/>
 
