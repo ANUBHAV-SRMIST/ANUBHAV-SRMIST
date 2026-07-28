@@ -110,9 +110,13 @@ My experience spans embedded systems, machine learning, and full-stack web devel
 
 ## 📫 Let's Connect
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-6366F1?style=flat-square&logo=vercel&logoColor=white)](https://anubhav-mishra.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anubhav-shrijan/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ANUBHAV-SRMIST)
+<table>
+<tr>
+<td><a href="https://anubhav-mishra.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-6366F1?style=flat-square&logo=vercel&logoColor=white"/></a></td>
+<td><a href="https://www.linkedin.com/in/anubhav-shrijan/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a></td>
+<td><a href="https://github.com/ANUBHAV-SRMIST"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a></td>
+</tr>
+</table>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:6366F1&height=100&section=footer" width="100%"/>
 
