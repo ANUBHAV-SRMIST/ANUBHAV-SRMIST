@@ -79,7 +79,7 @@ My experience spans embedded systems, machine learning, and full-stack web devel
 ## 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ANUBHAV-SRMIST&theme=tokyonight&no-frame=true&margin-w=10&row=1" alt="trophies"/>
+<img src="https://github-trophies.vercel.app/?username=ANUBHAV-SRMIST&theme=tokyonight&no-frame=true&margin-w=10&row=1" alt="trophies"/>
 </div>
 
 <br/>
