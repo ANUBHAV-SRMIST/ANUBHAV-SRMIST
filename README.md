@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:8B5CF6&height=220&section=header&text=Anubhav%20Shrijan%20Mishra&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=ECE%20•%20Embedded%20Engineer%20•%20Data%20Science&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Embedded+Systems+Engineer;Machine+Learning+Enthusiast;Full-Stack+Developer;Senior+Student+Chair+%40+IEEE+EDS" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=8B5CF6&center=true&vCenter=true&width=800&lines=Embedded+Systems+Engineer;Machine+Learning+Enthusiast;Full-Stack+Developer;Senior+Student+Chair+%40+IEEE+EDS" alt="Typing SVG" />
 
 <br/>
 
@@ -59,8 +59,6 @@ My experience spans embedded systems, machine learning, and full-stack web devel
 
 <br/>
 
-
-
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -99,8 +97,6 @@ My experience spans embedded systems, machine learning, and full-stack web devel
 <div align="center">
 <img src="https://raw.githubusercontent.com/ANUBHAV-SRMIST/ANUBHAV-SRMIST/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
 </div>
-
-
 
 <br/>
 
