@@ -65,10 +65,10 @@ My experience spans embedded systems, machine learning, and full-stack web devel
 
 <div align="center">
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ANUBHAV-SRMIST&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="165"/>
+<img src="https://raw.githubusercontent.com/ANUBHAV-SRMIST/ANUBHAV-SRMIST/main/profile/stats.svg" alt="GitHub Stats" height="165"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ANUBHAV-SRMIST&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" height="165"/>
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ANUBHAV-SRMIST&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" height="180"/>
+<img src="https://raw.githubusercontent.com/ANUBHAV-SRMIST/ANUBHAV-SRMIST/main/profile/top-langs.svg" alt="Top Languages" height="180"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ANUBHAV-SRMIST&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Activity Graph" width="90%"/>
 
