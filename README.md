@@ -63,18 +63,22 @@ My experience spans embedded systems, machine learning, and full-stack web devel
 
 ## 📊 GitHub Analytics
 
+## 📊 GitHub Analytics
+
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ANUBHAV-SRMIST/ANUBHAV-SRMIST/main/profile/stats.svg" alt="GitHub Stats" height="165"/>
-<img src="https://streak-stats.demolab.com/?user=ANUBHAV-SRMIST&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" height="165"/>
+<img src="https://raw.githubusercontent.com/ANUBHAV-SRMIST/ANUBHAV-SRMIST/main/profile/stats.svg" alt="GitHub Stats" width="48%"/>
+<img src="https://raw.githubusercontent.com/ANUBHAV-SRMIST/ANUBHAV-SRMIST/main/profile/top-langs.svg" alt="Top Languages" width="48%"/>
 
-<img src="https://raw.githubusercontent.com/ANUBHAV-SRMIST/ANUBHAV-SRMIST/main/profile/top-langs.svg" alt="Top Languages" height="180"/>
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com/?user=ANUBHAV-SRMIST&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="70%"/>
+
+<br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ANUBHAV-SRMIST&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Activity Graph" width="90%"/>
 
 </div>
-
-<br/>
 
 ## 🏆 GitHub Trophies
 
