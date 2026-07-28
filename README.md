@@ -90,7 +90,7 @@ My experience spans embedded systems, machine learning, and full-stack web devel
 <img src="https://raw.githubusercontent.com/ANUBHAV-SRMIST/ANUBHAV-SRMIST/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
 </div>
 
-> ⚡ To activate the snake animation above, set up the GitHub Action below (Step 5 instructions).
+
 
 <br/>
 
