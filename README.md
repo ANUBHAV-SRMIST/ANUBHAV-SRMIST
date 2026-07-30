@@ -82,11 +82,11 @@ My experience spans embedded systems, machine learning, and full-stack web devel
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=ANUBHAV-SRMIST&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="70%"/>
+
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ANUBHAV-SRMIST&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Activity Graph" width="90%"/>
+
 
 </div>
 
